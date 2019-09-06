@@ -1,0 +1,1591 @@
+fileFormatVersion: 2
+guid: 5353df8dd1fe4164ab1dbebbb2db32c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2832319074082716666
+    second: Animations J WJ_10
+  - first:
+      213: -3353800217816017404
+    second: Animations J WJ_11
+  - first:
+      213: 3754365067528833067
+    second: Animations J WJ_12
+  - first:
+      213: -3606517100409181405
+    second: Animations J WJ_13
+  - first:
+      213: -99802067120743869
+    second: Animations J WJ_14
+  - first:
+      213: -8137832168547868590
+    second: Animations J WJ_15
+  - first:
+      213: -695823633022318136
+    second: Animations J WJ_16
+  - first:
+      213: 5608441060647132026
+    second: Animations J WJ_17
+  - first:
+      213: 1133899118603872238
+    second: Animations J WJ_19
+  - first:
+      213: -944465612505750567
+    second: Animations J WJ_21
+  - first:
+      213: -8232778552845365788
+    second: Animations J WJ_23
+  - first:
+      213: 7633834228149032514
+    second: Animations J WJ_26
+  - first:
+      213: -2560133074429808233
+    second: Animations J WJ_27
+  - first:
+      213: 1205754161617521595
+    second: Animations J WJ_28
+  - first:
+      213: -9201599811217707628
+    second: Animations J WJ_29
+  - first:
+      213: 3384761162464827667
+    second: Animations J WJ_31
+  - first:
+      213: -4262549973172793107
+    second: Animations J WJ_32
+  - first:
+      213: 3732223963719188404
+    second: Animations J WJ_33
+  - first:
+      213: -2494414333233612865
+    second: Animations J WJ_34
+  - first:
+      213: 5619170482367111422
+    second: Animations J WJ_36
+  - first:
+      213: -4929943799854657474
+    second: Animations J WJ_37
+  - first:
+      213: 6929060239570540264
+    second: Animations J WJ_38
+  - first:
+      213: 1059552854209969778
+    second: Animations J WJ_39
+  - first:
+      213: 3094699420039845481
+    second: Animations J WJ_40
+  - first:
+      213: -5853819887881401570
+    second: Animations J WJ_41
+  - first:
+      213: 689185619359281270
+    second: Animations J WJ_42
+  - first:
+      213: -1302552966402969534
+    second: Animations J WJ_43
+  - first:
+      213: -8158448410371539664
+    second: Animations J WJ_44
+  - first:
+      213: -1411954128943135862
+    second: Animations J WJ_45
+  - first:
+      213: 8342223110639226198
+    second: Animations J WJ_46
+  - first:
+      213: -1052659280882366259
+    second: Animations J WJ_47
+  - first:
+      213: -2652515950855804618
+    second: Animations J WJ_48
+  - first:
+      213: 4287329028127992520
+    second: Animations J WJ_49
+  - first:
+      213: -1037422900871503358
+    second: Animations J WJ_50
+  - first:
+      213: -5655999449773394635
+    second: Animations J WJ_51
+  - first:
+      213: -4617199289411382398
+    second: Animations J WJ_52
+  - first:
+      213: 4425915161798642808
+    second: Animations J WJ_53
+  - first:
+      213: 4015206429785311685
+    second: Animations J WJ_54
+  - first:
+      213: -251352089774229510
+    second: Animations J WJ_55
+  - first:
+      213: -3358568419083927004
+    second: Animations J WJ_56
+  - first:
+      213: 1171351710600920930
+    second: Animations J WJ_57
+  - first:
+      213: -3669271813608752649
+    second: Animations J WJ_58
+  - first:
+      213: -2812093735517654640
+    second: Animations J WJ_59
+  - first:
+      213: -1500221187532613385
+    second: Animations J WJ_60
+  - first:
+      213: -5781444050337310400
+    second: Animations J WJ_0
+  - first:
+      213: -7977100166626586357
+    second: Animations J WJ_1
+  - first:
+      213: -8371196411717458426
+    second: Animations J WJ_2
+  - first:
+      213: 7727607155861761572
+    second: Animations J WJ_3
+  - first:
+      213: -2420421723688675932
+    second: Animations J WJ_4
+  - first:
+      213: 7477835571954663887
+    second: Animations J WJ_5
+  - first:
+      213: 5215276592861633403
+    second: Animations J WJ_6
+  - first:
+      213: 8070757123011988783
+    second: Animations J WJ_7
+  - first:
+      213: 624457363146288654
+    second: Animations J WJ_8
+  - first:
+      213: -3090011161330739412
+    second: Animations J WJ_9
+  - first:
+      213: -1325041632464563277
+    second: Animations J WJ_18
+  - first:
+      213: -6965961228319916249
+    second: Animations J WJ_20
+  - first:
+      213: -5438908493786560497
+    second: Animations J WJ_22
+  - first:
+      213: 5669160613232214281
+    second: Animations J WJ_24
+  - first:
+      213: 8623198412566715275
+    second: Animations J WJ_25
+  - first:
+      213: -3216003213836976866
+    second: Animations J WJ_30
+  - first:
+      213: -4609836868951277035
+    second: Animations J WJ_35
+  - first:
+      213: -7200419528712412203
+    second: Animations J WJ_61
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animations J WJ_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1993a485d815948a5337cc3423f245
+      internalID: -5781444050337310400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 352
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f73881fab8af4bb0310b42a4b909b
+      internalID: -7977100166626586357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 352
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ad4dc7d462cd42b427e0d238341d5
+      internalID: -8371196411717458426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 378
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82800bd20c921da46a01ec96aaedde6e
+      internalID: 7727607155861761572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 352
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a616f6ace97c4eb948ac636cb706d
+      internalID: -2420421723688675932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 352
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6b56fe4de608a44af8e415327221dc
+      internalID: 7477835571954663887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 352
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba4be9f50de64488d0808878d63180
+      internalID: 5215276592861633403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 352
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8438c800fdb23b4fbe12f14df79e3f5
+      internalID: 8070757123011988783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 352
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba6b5d45387904d983c0be31a75814
+      internalID: 624457363146288654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 352
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13bb92f89bf77640bcd2c390a3c4a60
+      internalID: -3090011161330739412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 283
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c16dc21d9b31c4f893a0c0a80c4af8
+      internalID: 2832319074082716666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 285
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7378cdb0903c724282046800d14c163
+      internalID: -3353800217816017404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 283
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c68692547bb6448a7be5575a6837e
+      internalID: 3754365067528833067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 282
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09b5495016f314cb3b2576b2513635
+      internalID: -3606517100409181405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 282
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e782a448ec437f243b400fb2fec1879a
+      internalID: -99802067120743869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 282
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248e8ce4913a534f92e65740084b096
+      internalID: -8137832168547868590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 283
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b6b91b24ceecc41be73fa0e6653d4b
+      internalID: -695823633022318136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c78cca9648d7ff439e9e77a87b70cb5
+      internalID: 5608441060647132026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 212
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884dfa62d513bec4fb30ddf613793146
+      internalID: -1325041632464563277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 212
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a8511566f6b9c4f99f1fcb8bc1f271
+      internalID: 1133899118603872238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 212
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d178f83aa319f264cb6ebaf6439ae6cc
+      internalID: -6965961228319916249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 212
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a0100ace9ac74e949fc4e731c81cc
+      internalID: -944465612505750567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 212
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07948f6e1775a4887f8a96201555f3
+      internalID: -5438908493786560497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 212
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9738cc907a2334d837317705d6bdb7
+      internalID: -8232778552845365788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 212
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83d5e5a7a3b7f54ea4143a69cb81a98
+      internalID: 5669160613232214281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 214
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d8b93d746b6d94a803bf52e93b36cd
+      internalID: 8623198412566715275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7124c70f92d3a144d947f42c402979e5
+      internalID: 7633834228149032514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 177
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8593a8da656160941a1e9dbe35008b75
+      internalID: -2560133074429808233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 177
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c69ac43fc7e1d468275c3d7e88eea3
+      internalID: 1205754161617521595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 177
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c44dfcb81a3f4c8b68f5a4e3b1009
+      internalID: -9201599811217707628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_30
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 177
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d86ad84d2a5b45acdad85a7805644
+      internalID: -3216003213836976866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 107
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7990346da58a494db3d7fff6bce942a
+      internalID: 3384761162464827667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ef8677e5d6c8498488129db26da53
+      internalID: -4262549973172793107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 107
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aff9994cc84d04a99f413351985abe
+      internalID: 3732223963719188404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 108
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e98ea09a3f54943b18c9ad196193dd
+      internalID: -2494414333233612865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 142
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed439f31d1462fe4e8346a4364837cc7
+      internalID: -4609836868951277035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 107
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0cb582d9f1b04459f39797e6507e36
+      internalID: 5619170482367111422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 107
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec7ca1f0fdb1664dae414bb13c8bb2e
+      internalID: -4929943799854657474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 107
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abde796f63fdb564eb83704dc27a5a63
+      internalID: 6929060239570540264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 108
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb537d9a3df64b349a49963d47a87fbb
+      internalID: 1059552854209969778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b18816838c9948bb3a3d80ab90bdf
+      internalID: 3094699420039845481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1759021237a8a0b4b8880542a289b8df
+      internalID: -5853819887881401570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a2ce6f7698e94489a58d1a86c6e872
+      internalID: 689185619359281270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 73
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b057d8004dbba4b9e9a4dd61ecee72
+      internalID: -1302552966402969534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1171fc4a5db802749a1c539b0b2a8bf4
+      internalID: -8158448410371539664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c877e4551d6a64dbe92c3e0fc4001a
+      internalID: -1411954128943135862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 72
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a78ea30120d5d4693edbe4acc965e4
+      internalID: 8342223110639226198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 73
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773c77c7127e74640bac4f15e3a91123
+      internalID: -1052659280882366259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_48
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 72
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed753fb4aab2fc479cf86cb2dfd4be7
+      internalID: -2652515950855804618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 73
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8e8a48775690545aca21178405ed02
+      internalID: 4287329028127992520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889dff5157fe7b440a36464d9d71f1d6
+      internalID: -1037422900871503358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_51
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33780445624d96240b64f9888787c1ca
+      internalID: -5655999449773394635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332df963a90a9a648a4c8b8fa0c6eb1d
+      internalID: -4617199289411382398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe212b19ff9e74baa3bc0478afbfc7
+      internalID: 4425915161798642808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728039a02cf4e846addd71810ffce45
+      internalID: 4015206429785311685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_55
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb076e2105c8f4fbefb0839ccd6c42
+      internalID: -251352089774229510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378ffcd515121d4dbd57cbea9f9af3d
+      internalID: -3358568419083927004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_57
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da203039fd43284d8e20fa2eb4a892d
+      internalID: 1171351710600920930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7662347227a44daeac8126838abfd
+      internalID: -3669271813608752649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ecf0b6732700448ed488ea799b679
+      internalID: -2812093735517654640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_60
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf3b66825b48244797fde607df63861
+      internalID: -1500221187532613385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations J WJ_61
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 308
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3da189db6878447adee64d560d1597
+      internalID: -7200419528712412203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
